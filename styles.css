@@ -1,0 +1,60 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+body {
+    min-height:100vh;
+    background-image: url(cssimageeee.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    
+}
+nav {
+    background-color: rgb(78, 71, 71);
+    box-shadow: 2px 2px 3px;
+}
+nav ul {
+    width: 100%;
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+nav a {
+    text-decoration: none;
+    padding: 0px 30px;
+    color: black;
+    font-size: large;
+    align-items: center;
+    display: flex;
+    height: 100%;
+    
+}
+nav li {
+    height: 50px;
+
+}
+nav a:hover {
+    background-color: lightgrey;
+    border-radius: 5px;
+    
+
+}
+
+nav li:first-child {
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+}
+.login {
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+    height: auto;
+    
+}
+
+
+
