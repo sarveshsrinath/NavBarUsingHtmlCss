@@ -3,9 +3,9 @@
     padding: 0px;
     
 }
-body {
+.main-container {
     min-height:100vh;
-    background-image: url(cssimageeee.jpg);
+    background-image: url(images/cssimageeee.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -55,6 +55,3 @@ nav li:first-child {
     height: auto;
     
 }
-
-
-
