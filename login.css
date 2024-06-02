@@ -44,6 +44,12 @@ body {
     margin-bottom: 5px;
     color: #333;
 }
+.input-group input i {
+    display: inline-block;
+    
+} 
+
+
 
 .input-group input {
     width: 100%;
@@ -88,7 +94,5 @@ button {
 button:hover {
     background-color: #4cae4c;
 }
-
-
 
 
